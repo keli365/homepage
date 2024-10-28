@@ -38,12 +38,15 @@ export default defineConfig({
       label: '目录',
     },
 
-    /*socialLinks: [{ icon: 'github', link: 'https://github.com/maomao1996/vitepress-nav-template' }],*/
+    
 
     footer: [{
       copyright: 'Copyright © Keli365 | Power by maomao', 
-      socialLinks: [{ icon: 'github', link: 'https://github.com/maomao1996/vitepress-nav-template' }],
+      icon: 'github', 
+      link: 'https://github.com/maomao1996/vitepress-nav-template',
     }],
+
+    socialLinks: [{ icon: 'github', link: 'https://github.com/maomao1996/vitepress-nav-template' }],
 
     lastUpdated: {
       text: '最后更新于',
