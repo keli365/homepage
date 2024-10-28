@@ -3,53 +3,36 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: 茂茂的
-  text: 前端导航模板
-  tagline: 基于 VitePress 的个人前端导航页面模板
-  image:
-    src: /logo.png
-    alt: 茂茂物语
+  name: Keli
+  text: 的个人主页
+  tagline: 以巧克力，以力胜巧！
+  /*image:*/
+   /*  src: /logo.png*/
+   /*  alt: Keli365*/
   actions:
-    - text: 茂茂物语
-      link: https://notes.fe-mm.com
-    - text: 前端导航
-      link: /nav/
-      theme: alt
-    - text: mmPlayer
-      link: https://netease-music.fe-mm.com
-    - text: 测试页
-      link: /test
-      theme: alt
+    - text: 信奥之路
+      link: https://workspace.dingtalk.com/c5AmLp33nGibaE37hUH1hw
+    - text: OnlineJudge
+      link: https://hydro.ac/d/keli365/
+    - text: 资料共享
+      link: https://kdocs.cn/join/g59p395?f=101
 features:
   - icon: 📖
-    title: 前端物语
-    details: 整理前端常用知识点<small>（面试八股文）</small><br />如有异议按你的理解为主，不接受反驳
-    link: https://notes.fe-mm.com/fe/javascript/types
-    linkText: 前端常用知识
-  - icon: 📘
-    title: 源码阅读
-    details: 了解各种库的实现原理<br />学习其中的小技巧和冷知识
-    link: https://notes.fe-mm.com/analysis/utils/only-allow
-    linkText: 源码阅读
+    title: 信奥之路
+    details: 一些关于信奥的知识点
+    link: https://workspace.dingtalk.com/c5AmLp33nGibaE37hUH1hw
+    linkText: 信奥之路
   - icon: 💡
-    title: Workflow
+    title: OnlineJudge
     details: 在工作中学到的一切<small>（常用库/工具/奇淫技巧等）</small><br />配合 CV 大法来更好的摸鱼
-    link: https://notes.fe-mm.com/workflow/utils/library
-    linkText: 常用工具库
-  - icon: 🧰
-    title: 提效工具
-    details: 工欲善其事，必先利其器<br />记录开发和日常使用中所用到的软件、插件、扩展等
-    link: https://notes.fe-mm.com/efficiency/online-tools
-    linkText: 提效工具
-  - icon: 🐞
-    title: 踩坑记录
-    details: 那些年我们踩过的坑<br />总有一些让你意想不到的问题
-    link: https://notes.fe-mm.com/pit/npm
-    linkText: 踩坑记录
-  - icon: 💯
-    title: 吾志所向，一往无前。
-    details: '<small class="bottom-small">一个想躺平的小开发</small>'
-    link: https://notes.fe-mm.com/mao
+    link: https: https://hydro.ac/d/keli365/
+    linkText: 在线判题系统
+  - icon: 📘
+    title: 资料共享
+    details: 一些资料的共享，方便节省查找时间
+    link: https://kdocs.cn/join/g59p395?f=101
+    linkText: 资料共享
+
 ---
 
 <style>
