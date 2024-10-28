@@ -22,6 +22,11 @@ features:
     details: 一些关于信奥的知识点
     link: https://workspace.dingtalk.com/c5AmLp33nGibaE37hUH1hw
     linkText: 信奥之路
+  - icon: 💡
+    title: OnlineJudge
+    details: 刷题，必不可少！
+    link: https://workspace.dingtalk.com/c5AmLp33nGibaE37hUH1hw
+    linkText: 在线判题系统
   - icon: 📘
     title: 资料共享
     details: 一些资料的共享，方便节省查找时间
