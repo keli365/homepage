@@ -24,7 +24,7 @@ features:
     linkText: 信奥之路
   - icon: 💡
     title: OnlineJudge
-    details: 在工作中学到的一切<small>（常用库/工具/奇淫技巧等）</small><br />配合 CV 大法来更好的摸鱼
+    details: 在线判题，必不可小
     link: https: https://hydro.ac/d/keli365/
     linkText: 在线判题系统
   - icon: 📘
