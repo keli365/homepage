@@ -38,7 +38,7 @@ export default defineConfig({
       label: '目录',
     },
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/maomao1996/vitepress-nav-template' }],
+    /*socialLinks: [{ icon: 'github', link: 'https://github.com/maomao1996/vitepress-nav-template' }],8/
 
     footer: {
       copyright: 'Copyright © Keli365 | Power by maomao',
@@ -65,15 +65,16 @@ export default defineConfig({
 
     /*** 自定义配置 ***/
     visitor: {
-      badgeId: 'maomao1996.vitepress-nav-template',
+      badgeId: 'www.keli365.com',
     },
-
+    /*
     comment: {
       repo: 'maomao1996/vitepress-nav-template',
       repoId: 'R_kgDOJC09Jg',
       category: 'Announcements',
       categoryId: 'DIC_kwDOJC09Js4Cekn0',
     },
+    */
   },
 
   vite: {
