@@ -17,3 +17,11 @@ import { NAV_DATA } from './data'
 ::: tip
 该导航由 [maomao](https://github.com/maomao1996) 开发，如有引用、借鉴的请保留版权声明：<https://github.com/maomao1996/vitepress-nav-template>
 :::
+export default defineConfig({
+    ---
+    socialLinks: [{ icon: 'github', link: 'https://github.com/maomao1996/vitepress-nav-template' }], //社交链接
+
+    footer: {
+      copyright: 'Copyright © Keli365 | maomao'
+    },  //页脚，可按Vue支持格式修改
+})
