@@ -6,9 +6,9 @@ hero:
   name: Keli
   text: 的个人主页
   tagline: 以巧克力，以力胜巧！
-  /*image:*/
-   /*  src: /logo.png*/
-   /*  alt: Keli365*/
+  image:
+     src: /logo.png
+     alt: Keli365
   actions:
     - text: 信奥之路
       link: https://workspace.dingtalk.com/c5AmLp33nGibaE37hUH1hw
