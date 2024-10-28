@@ -42,8 +42,6 @@ export default defineConfig({
 
     footer: {
       copyright: 'Copyright © Keli365 | Power by maomao', 
-      icon: 'github', 
-      link: 'https://github.com/maomao1996/vitepress-nav-template',
     },
 
     socialLinks: [{ icon: 'github', link: 'https://github.com/maomao1996/vitepress-nav-template' }],
@@ -68,10 +66,10 @@ export default defineConfig({
     darkModeSwitchTitle: '切换到深色模式',
 
     /*** 自定义配置 ***/
+    /*
     visitor: {
       badgeId: 'www.keli365.com',
     },
-    /*
     comment: {
       repo: 'maomao1996/vitepress-nav-template',
       repoId: 'R_kgDOJC09Jg',
