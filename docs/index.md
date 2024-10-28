@@ -23,9 +23,9 @@ features:
     link: https://workspace.dingtalk.com/c5AmLp33nGibaE37hUH1hw
     linkText: 信奥之路
   - icon: 💡
-    title: OnlineJudge
+    title: OJ
     details: 刷题，必不可少！
-    link: https://workspace.dingtalk.com/c5AmLp33nGibaE37hUH1hw
+    link: https://hydro.ac/d/keli365/
     linkText: 在线判题系统
   - icon: 📘
     title: 资料共享
