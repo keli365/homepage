@@ -41,8 +41,8 @@ export default defineConfig({
     /*socialLinks: [{ icon: 'github', link: 'https://github.com/maomao1996/vitepress-nav-template' }],*/
 
     footer: [{
-      message: 'Copyright © Keli365 | Power by ', 
-      link: 'https://github.com/maomao1996/vitepress-nav-template', linkTest: 'maomao'
+      copyright: 'Copyright © Keli365 | Power by maomao', 
+      socialLinks: [{ icon: 'github', link: 'https://github.com/maomao1996/vitepress-nav-template' }],
     }],
 
     lastUpdated: {
