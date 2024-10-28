@@ -6,9 +6,9 @@ hero:
   name: Keli
   text: 的个人主页
   tagline: 以巧克力，以力胜巧！
-  image:
-     src: /logo.png
-     alt: Keli365
+  /*image:*/
+   /*  src: /logo.png*/
+   /*  alt: Keli365*/
   actions:
     - text: 信奥之路
       link: https://workspace.dingtalk.com/c5AmLp33nGibaE37hUH1hw
@@ -24,7 +24,7 @@ features:
     linkText: 信奥之路
   - icon: 💡
     title: OnlineJudge
-    details: 在线判题，必不可小
+    details: 在线判题系统必不可少
     link: https: https://hydro.ac/d/keli365/
     linkText: 在线判题系统
   - icon: 📘
@@ -34,4 +34,3 @@ features:
     linkText: 资料共享
 
 ---
-
