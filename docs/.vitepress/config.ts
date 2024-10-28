@@ -40,11 +40,11 @@ export default defineConfig({
 
     
 
-    footer: [{
+    footer: {
       copyright: 'Copyright © Keli365 | Power by maomao', 
       icon: 'github', 
       link: 'https://github.com/maomao1996/vitepress-nav-template',
-    }],
+    },
 
     socialLinks: [{ icon: 'github', link: 'https://github.com/maomao1996/vitepress-nav-template' }],
 
