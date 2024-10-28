@@ -3,12 +3,12 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: Keli
-  text: 的个人主页
+  name: 巧克力的
+  text: 个人主页
   tagline: 以巧克力，以力胜巧！
-  /*image:*/
-   /*  src: /logo.png*/
-   /*  alt: Keli365*/
+  image:
+    src: /logo.png
+    alt: Keli365
   actions:
     - text: 信奥之路
       link: https://workspace.dingtalk.com/c5AmLp33nGibaE37hUH1hw
@@ -32,5 +32,12 @@ features:
     details: 一些资料的共享，方便节省查找时间
     link: https://kdocs.cn/join/g59p395?f=101
     linkText: 资料共享
-
 ---
+
+<style>
+/*爱的魔力转圈圈*/
+.m-home-layout .image-src:hover {
+  transform: translate(-50%, -50%) rotate(666turn);
+  transition: transform 59s 1s cubic-bezier(0.3, 0, 0.8, 1);
+}
+</style>
